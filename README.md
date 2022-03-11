@@ -27,15 +27,18 @@
 
 ## <img id="about" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/about.png?raw=true" style="height: 40px">
 
-
+Pizza Hunt is a class module designed to teach NoSQL.
 
 ## <img id="installing" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/installing.png?raw=true" style="height: 40px">
 
-
+1. Clone repository
+2. Run `npm install`
+3. Run `npm start`
+4. Navigate to localhost:3001
 
 ## <img id="usage" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/usage.png?raw=true" style="height: 40px">
 
-
+Once you are at the website you are presented with all the pizza recipes. You may choose to create a pizza or "see the discussion". To create a pizza click on "create a new pizza" and fill out the form. Clicking on "see the discussion" an you will be able to leave comments on the pizza and reply to comments.
 
 ## <img id="built_using" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/built-using.png?raw=true" style="height: 40px">
 
@@ -47,7 +50,7 @@
 
 ## <img id="authors" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/authors.png?raw=true" style="height: 40px">
 
-[glenluersman](https://github.com/glenluersman)
+- [glenluersman](https://github.com/glenluersman)
 
 ## <img id="questions" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/questions-alt.png?raw=true" style="height: 40px">
 
@@ -55,10 +58,8 @@
 
 ## <img id="screenshots" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/screenshots.png?raw=true" style="height: 40px">
 
-<img style="margin: 0 0 15px 0" src="./images/" ></a>
+<img style="margin: 0 0 15px 0" src="./images/pizza-hunt1.PNG" ></a>
 
-<img style="margin: 0 0 15px 0" src="./images/" ></a>
+<img style="margin: 0 0 15px 0" src="./images/pizza-hunt2.PNG" ></a>
 
-<img style="margin: 0 0 15px 0" src="./images/" ></a>
-
-<img style="margin: 0 0 15px 0" src="./images/" ></a>
+<img style="margin: 0 0 15px 0" src="./images/pizza-hunt3.PNG" ></a>
